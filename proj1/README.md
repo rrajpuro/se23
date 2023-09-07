@@ -14,7 +14,7 @@ To understand the grading rubric of Project2, try running an existing project an
 - [Video of running Project XX](#video-project_XX)
 - [Contributors](#contributors)
 
-## Grading for Project g <a name="project-g"></a>
+## Grading for Project g [(MyDollarBot)](#https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo) <a name="project-g"></a>
 | Notes | Evidence | Notes |
 | -------- | -------- | -------- |
 | Video |  |  |
@@ -53,3 +53,7 @@ To understand the grading rubric of Project2, try running an existing project an
 ## Grading for Project p <a name="project-p"></a>
 ## Video of running Project XX <a name="video-project_XX"></a>
 ## Contributors <a name="contributors"></a>
+- Ajay
+- Jainam
+- Keerthana
+- Rahul
