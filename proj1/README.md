@@ -15,6 +15,24 @@ To understand the grading rubric of Project2, try running an existing project an
 - [Contributors](#contributors)
 
 ## Grading for Project g <a name="project-g"></a>
+| Notes | Evidence | Notes |
+| -------- | -------- | -------- |
+| Video |  |  |
+| Workload is spread over the whole team (one team member is often Xtimes more productive than the others... |  |  |
+| but nevertheless, here is a track record that everyone is contributing a lot)	|  |
+| Number of commits |  |
+| Number of commits: by different people |  |
+| Issues reports: there are many |  |
+| Issues are being closed	|  |
+| DOI badge: exists |  |
+| Docs: doco generated, format not ugly |  |
+| Docs: what: point descriptions of each class/function (in isolation) |  |
+| Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z |  |
+| Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing	|  |
+| Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. |  |
+| Use of version control tools |  |
+| Use of style checkers |  |
+| Use of code formatters. |  |
 ## Grading for Project M <a name="project-M"></a>
 ## Grading for Project z <a name="project-z"></a>
 ## Grading for Project S <a name="project-S"></a>
