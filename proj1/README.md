@@ -1,4 +1,4 @@
-# Project 1 {#project-1}
+# Project 1 <a name="project-1"></a>
 ## What is it? {#what-is-it?}
 To understand the grading rubric of Project2, try running an existing project and decide "does this repo look good?"
 
