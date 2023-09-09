@@ -47,7 +47,7 @@ To understand the grading rubric of Project2, try running an existing project an
 | Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) |  |
 | Evidence that the members of the team are working across multiple places in the code base |  |
 | Short release cycles |  |
-| Online Sustainability Evaluation | <td colspan="2">Online Sustainability Evaluation</td> |
+| Online Sustainability Evaluation |  |
 | Does the website and documentation provide a clear, high-level overview of your software? |  |
 | Does the website and documentation clearly describe the type of user who should use your software? |  |
 | Do you publish case studies to show how your software has been used by yourself and others? |  |
