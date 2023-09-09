@@ -47,7 +47,7 @@ To understand the grading rubric of Project2, try running an existing project an
 | Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) |  |
 | Evidence that the members of the team are working across multiple places in the code base |  |
 | Short release cycles |  |
-| Online Sustainability Evaluation |  |
+| Online Sustainability Evaluation | <td colspan="2">Online Sustainability Evaluation</td> |
 | Does the website and documentation provide a clear, high-level overview of your software? |  |
 | Does the website and documentation clearly describe the type of user who should use your software? |  |
 | Do you publish case studies to show how your software has been used by yourself and others? |  |
@@ -120,10 +120,10 @@ To understand the grading rubric of Project2, try running an existing project an
 | Do you make timely announcements of the deprecation of components, APIs, etc.? |  |
 
 
-## Grading for Project M <a name="project-M"></a>
-## Grading for Project z <a name="project-z"></a>
-## Grading for Project S <a name="project-S"></a>
-## Grading for Project p <a name="project-p"></a>
+## Grading for Project M [(C.E.L.T Sentiment Analyser)](https://github.com/mrpudlo/SE_Project1) <a name="project-M"></a>
+## Grading for Project z [(Item Stock Tracker)](https://github.com/shahrk/ItemStockTracker/) <a name="project-z"></a>
+## Grading for Project S [(Units Converter Extension)](https://github.com/NCSU-S/units_converter_extension) <a name="project-S"></a>
+## Grading for Project p [(Wolftrack 3.0)](https://github.com/nehajaideep/WolfTrack3.0) <a name="project-p"></a>
 ## Video of running Project XX <a name="video-project_XX"></a>
 ## Contributors <a name="contributors"></a>
 - Ajay
