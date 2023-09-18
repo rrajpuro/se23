@@ -33,7 +33,10 @@ Now, going straight to the part2, running a project.
 
 After a lot of meetings and failures, we finalized to use MyDollarBot-BOTGo to be the project to be used to create the video and use it for our project2.
 
-## Mistakes <a name="mistakes"></a>
+## Part3: <a name="part3"></a>
+Video Link:
+
+## Mistakes: <a name="mistakes"></a>
 Now, we know that we were not at all perfect and made a lot of small and big mistakes throughout the process of project1. We then thought about it and then decided to not repeat them in the future projects. Here are some of the mistakes we made:
 - We did not host regular meetings, we met very sparsely and at random times, it hurt our efficiency to work
 - We made a mistake of not ranking the projects after grading them. Yes, after testing each one of them, we found out that our grading was very close to our results. If we would have ranked the projects, we could have just avoided running some of the projects based on the documentation and their dependencies.
