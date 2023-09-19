@@ -1,5 +1,5 @@
-﻿Sr. No.,Notes,Self Assessment,Evidence,Notes
-1,Video,1,"Does have a video, but seems slightly fluffy but does demonstrate the capabilities of the app. But the delta video doesn't exist",Delta Video Link (https://drive.google.com/file/d/1VqQPTm4tFjG8mbixrjqvjnmgsYb8YD49/view?usp=sharing)
+Sr. No.,Notes,Self Assessment,Evidence,Notes
+1,Video,1,"Does have a video, but seems slightly fluffy but does demonstrate the capabilities of the app. But the delta video doesn't exist",https://drive.google.com/file/d/1VqQPTm4tFjG8mbixrjqvjnmgsYb8YD49/view?usp=sharing
 2,Workload is spread over the whole team (one team member is often Xtimes more productive than the others...,2,https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo/graphs/contributors?from=2021-09-12&to=2021-12-12&type=c,
 3,"but nevertheless, here is a track record that everyone is contributing a lot)",3,https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo/graphs/contributors?from=2021-09-12&to=2021-12-12&type=c,
 4,Number of commits,3,https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo/commits/main,
@@ -16,19 +16,19 @@
 15,Use of style checkers,0,,
 16,Use of code formatters.,3,flake8 (https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo/blob/main/requirements.txt),
 17,Use of syntax checkers.,3,flake8 (https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo/blob/main/requirements.txt),
-18,Use of code coverage,3,https://github.com/sak007/MyDollarBot-BOTGo/blob/main/.travis.yml,90% codecov
-19,Other automated analysis tools,3,https://github.com/sak007/MyDollarBot-BOTGo/blob/main/.travis.yml,
-20,Test cases exist,3,https://github.com/sak007/MyDollarBot-BOTGo/tree/main/test,110 test cases with coverage more than 80% 
+18,Use of code coverage,3,https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo/blob/main/.travis.yml,90% codecov
+19,Other automated analysis tools,3,https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo/blob/main/.travis.yml,
+20,Test cases exist,3,https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo/tree/main/test,110 test cases with coverage more than 80% 
 21,Test cases are routinely executed,2,https://app.codecov.io/gh/sak007/MyDollarBot-BOTGo,
 22,The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up,2,https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo/blob/main/CONTRIBUTING.md,
-23,Issues are discussed before they are closed,2,https://github.com/sak007/MyDollarBot-BOTGo/issues,
+23,Issues are discussed before they are closed,3,https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo/issues?q=is%3Aissue+is%3Aclosed,
 24,Chat channel: exists,-,,
-25,Test cases: a large proportion of the issues related to handling failing cases.,,,
+25,Test cases: a large proportion of the issues related to handling failing cases.,2,,
 26,Evidence that the whole team is using the same tools: everyone can get to all tools and files,3,,
 27,"Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)",3,,
 28,"Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)",-,,
 29,Evidence that the members of the team are working across multiple places in the code base,3,,
-30,Short release cycles,1,https://github.com/sak007/MyDollarBot-BOTGo/releases,
+30,Short release cycles,1,https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo/releases,
 31,Online Sustainability Evaluation,,,
 32,"Does the website and documentation provide a clear, high-level overview of your software?",Y,,
 33,Does the website and documentation clearly describe the type of user who should use your software?,Y,,

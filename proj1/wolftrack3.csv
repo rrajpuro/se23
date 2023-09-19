@@ -1,6 +1,6 @@
-﻿Sr. No.,Notes,Self Assessment,Evidence
+Sr. No.,Notes,Self Assessment,Evidence
 1,Video,3,https://github.com/nehajaideep/WolfTrack3.0
-2,Workload is spread over the whole team (one team member is often Xtimes more productive than the others...,3,contributors(https://github.com/nehajaideep/WolfTrack3.0/graphs/contributors)
+2,Workload is spread over the whole team (one team member is often Xtimes more productive than the others...,3,https://github.com/nehajaideep/WolfTrack3.0/graphs/contributors
 3,"but nevertheless, here is a track record that everyone is contributing a lot)",,https://github.com/nehajaideep/WolfTrack3.0/graphs/contributors
 4,Number of commits,3,https://github.com/nehajaideep/WolfTrack3.0/graphs/contributors
 5,Number of commits: by different people,3,https://github.com/nehajaideep/WolfTrack3.0/graphs/contributors
@@ -11,23 +11,23 @@
 10,Docs: what: point descriptions of each class/function (in isolation),3,https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/docs/WolfTrack3.0_Documentation.pdf
 11,"Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z",2,
 12,"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing",2,https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/README.md
-13,"Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.",3,wolftrackv3.mp4 (https://drive.google.com/file/d/1Ug-K1hOt9Jbbztuziw2OZFPyBx66PqLx/view)
+13,"Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.",3,https://drive.google.com/file/d/1Ug-K1hOt9Jbbztuziw2OZFPyBx66PqLx/view
 14,Use of version control tools,3,https://github.com/nehajaideep/WolfTrack3.0#%EF%B8%8F-version-control-tools
 15,Use of style checkers,3,https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/.github/workflows/main.yml
-16,Use of code formatters.,3,https://github.com/aditya4196/WolfTrack2.0/blob/Group10StableBranch/.github/workflows/main.yml
-17,Use of syntax checkers.,3,https://github.com/aditya4196/WolfTrack2.0/blob/Group10StableBranch/.github/workflows/main.yml
-18,Use of code coverage,3,https://github.com/aditya4196/WolfTrack2.0/blob/Group10StableBranch/.github/workflows/main.yml
+16,Use of code formatters.,3,https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/.github/workflows/main.yml
+17,Use of syntax checkers.,3,https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/.github/workflows/main.yml
+18,Use of code coverage,3,https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/.github/workflows/main.yml
 19,Other automated analysis tools,1,https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/.travis.yml
 20,Test cases exist,2,https://github.com/nehajaideep/WolfTrack3.0/tree/Group10StableBranch/UnitTesting
 21,Test cases are routinely executed,3,https://github.com/nehajaideep/WolfTrack3.0/commits/Group10StableBranch/UnitTesting
 22,The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up,2,https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/CONTRIBUTING.md
-23,Issues are discussed before they are closed,-,
+23,Issues are discussed before they are closed,3,https://github.com/nehajaideep/WolfTrack3.0/issues?q=is%3Aissue+is%3Aclosed
 24,Chat channel: exists,-,
-25,Test cases: a large proportion of the issues related to handling failing cases.,2,https://github.com/aditya4196/WolfTrack2.0/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22Failed+Test+Cases+Resolution%22
+25,Test cases: a large proportion of the issues related to handling failing cases.,2,
 26,Evidence that the whole team is using the same tools: everyone can get to all tools and files,3,
 27,"Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)",3,
 28,"Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)",-,
-29,Evidence that the members of the team are working across multiple places in the code base,3,https://github.com/aditya4196/WolfTrack2.0/commits/Group10StableBranch
+29,Evidence that the members of the team are working across multiple places in the code base,3,https://github.com/nehajaideep/WolfTrack3.0/graphs/contributors
 30,Short release cycles,3,https://github.com/nehajaideep/WolfTrack3.0/releases/tag/wolftrack
 31,Online Sustainability Evaluation,,
 32,"Does the website and documentation provide a clear, high-level overview of your software?",Y,
