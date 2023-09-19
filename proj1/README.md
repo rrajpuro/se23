@@ -29,7 +29,7 @@ To understand the grading rubric of Project2, try running an existing project an
 [YouTube](https://youtu.be/RHE3oC5JdDY)
 
 ## Contributors <a name="contributors"></a>
-- Ajay
-- Jainam
-- Keerthana
-- Rahul
+- Ajay (araveen)
+- Jainam (jparikh)
+- Keerthana (ktelapr)
+- Rahul (rrajpur)
