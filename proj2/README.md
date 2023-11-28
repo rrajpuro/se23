@@ -13,10 +13,10 @@ We enhanced a telegram bot called DollarBot that assists users in recording thei
   - [Contributors ](#contributors-)
 
 ## Link for the project repository
-[DollarBot](https://github.com/rrajpuro/DollarBot)
+<a href="https://github.com/rrajpuro/DollarBot" target="_blank">GitHub - DollarBot</a>
 
 ## Video of running Project
-[YouTube - DollarBot](https://youtu.be/RHE3oC5JdDY)
+<a href="https://youtu.be/EX9CTIBbOuc" target="_blank">YouTube - DollarBot</a>
 
 ## Self-assesment score card
 |	Sr. No.	|	Notes	|	Self Assessment	|	Evidence	|	Notes	|
