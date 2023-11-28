@@ -1,23 +1,58 @@
 ## **New Enhancements and Updates**
 
+
 You can find the forked repository following this link - https://github.com/ajaykrish244/ScheduleBot
 
 ### Feature 1: TypeEdit Event Type
 
-With our latest update, we're excited to introduce a dynamic feature that empowers users to customize their event experience like never before. Now, not only can you create events tailored to your preferences, but you also have the flexibility to edit and change the event type whenever you desire. Whether your plans evolve or you simply want to fine-tune the details, our platform puts you in the driver's seat, allowing you to seamlessly switch event types to perfectly match your vision. This enhancement ensures that your events are as unique and personalized as the moments they celebrate. Enjoy the freedom to adapt and redefine your event types effortlessly!
+With our latest update, we're excited to introduce a dynamic feature that empowers users to customize their event experience like never before. Now, not only can you create events tailored to your preferences, but you also have the flexibility to edit and change the event type whenever you desire. Whether your plans evolve or you want to fine-tune the details, our platform puts you in the driver's seat, allowing you to switch event types to match your vision perfectly. This enhancement ensures that your events are as unique and personalized as the moments they celebrate. Enjoy the freedom to adapt and redefine your event types effortlessly!
 
 
 <img width=500 src="/proj3/Docs/TypeEdit.jpg">
 
 ### Feature 2: UI Enhancement
 
-We came up with a solution to enhance the User Experience while using our ScheduleBot, So we came up with this feature. Which lets the user to select dates from this cool UI shown below and user's can schedule an event from the UI.
+Our team has developed a solution to improve the user experience of our ScheduleBot. We have added a new feature that allows users to easily select dates from a visually appealing interface and schedule events. This will simplify the scheduling process and make it more convenient for our users.
+
 
 <img width=500 src="/proj3/Docs/UI%20Update.jpg">
 
+### Feature 3: UI-Based Date Selection
+
+This feature will enable users to automatically select a date using the /choosedate command. It allows users to enter the date for scheduling events without the need to manually type it in the specified format. With this feature, we can significantly improve the user experience by providing an enhanced UI to let them pick the dates easily.
 
 
-**Demo**
+<img width=500 src="/proj3/Docs/automatic_date.jpg">
+
+### Feature 4: Enhanced DropDown Help
+
+We have introduced a new feature that allows us to provide personalized assistance to the user. We have enhanced the dropdown list to display custom-specific options for events, event types, viewing, and other types of help. This makes it easier for the user to find the selection they need without having to search through multiple options. 
+
+
+<img width=500 src="/proj3/Docs/dropdown.jpg">
+
+### Feature 5: Upgrade in Commands
+
+Previously, we used '!' to start each command. Now we have switched to using '/' and added auto-complete commands which complete after the slash '/' when some words from the existing events are picked.
+
+
+<img width=500 src="/proj3/Docs/help.jpg">
+
+### Feature 6: Enhancement with Quick Scheduling
+
+When creating an event using the 'add_event' function, the user is required to enter a lot of data such as the name, time, place, type, and description. Previously, there was no option to create a quick event. However, with this new enhancement, the user can quickly schedule an event and receive alerts to keep them on track.
+
+
+<img width=500 src="/proj3/Docs/quickschedule.jpg">
+
+### Feature 7: Event-Specific Search
+
+If the user is unsure whether they have created an event in their schedule, there was previously no way for them to check. With the new event-specific search feature, users can now easily see which events are already present in their schedule and which ones they still need to create.
+
+
+<img width=500 src="/proj3/Docs/searchEvent.png">
+
+##  **Demo**
 
 [videolink]
 
