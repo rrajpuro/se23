@@ -1,9 +1,9 @@
-##New Enhancements and Updates
+##**New Enhancements and Updates**
 
 You can find the forked repository following this link - https://github.com/ajaykrish244/ScheduleBot
 
 
-|Descrption|Rating|Evidence|
+|Description|Rating|Evidence|
 |-----|---------|-------|
 |Video|3||
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others... |3|https://github.com/ajaykrish244/ScheduleBot/pulse|
