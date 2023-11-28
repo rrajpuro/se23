@@ -1,7 +1,27 @@
-##**New Enhancements and Updates**
+## **New Enhancements and Updates**
 
 You can find the forked repository following this link - https://github.com/ajaykrish244/ScheduleBot
 
+### Feature 1: TypeEdit Event Type
+
+With our latest update, we're excited to introduce a dynamic feature that empowers users to customize their event experience like never before. Now, not only can you create events tailored to your preferences, but you also have the flexibility to edit and change the event type whenever you desire. Whether your plans evolve or you simply want to fine-tune the details, our platform puts you in the driver's seat, allowing you to seamlessly switch event types to perfectly match your vision. This enhancement ensures that your events are as unique and personalized as the moments they celebrate. Enjoy the freedom to adapt and redefine your event types effortlessly!
+
+
+<img width=500 src="/proj3/Docs/TypeEdit.jpg">
+
+### Feature 2: UI Enhancement
+
+We came up with a solution to enhance the User Experience while using our ScheduleBot, So we came up with this feature. Which lets the user to select dates from this cool UI shown below and user's can schedule an event from the UI.
+
+<img width=500 src="/proj3/Docs/UI%20Update.jpg">
+
+
+
+**Demo**
+
+[videolink]
+
+**ScoreCard**
 
 |Description|Rating|Evidence|
 |-----|---------|-------|
