@@ -54,13 +54,13 @@ If the user is unsure whether they have created an event in their schedule, ther
 
 ##  **Demo**
 
-[videolink]
+[Video Link](https://youtu.be/UWgI0r7PB54)
 
 ## **ScoreCard**
 
 |Description|Rating|Evidence|
 |-----|---------|-------|
-|Video|3||
+|Video|3|[Demo](https://youtu.be/UWgI0r7PB54)|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others... |3|https://github.com/ajaykrish244/ScheduleBot/pulse|
 but nevertheless, here is a track record that everyone is contributing a lot)|3|https://github.com/ajaykrish244/ScheduleBot/pulse|
 |Number of commits|3|https://github.com/ajaykrish244/ScheduleBot/graphs/commit-activity|
@@ -82,9 +82,9 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Test cases exist|3|https://github.com/ajaykrish244/ScheduleBot/tree/main/test|
 |Test cases are routinely executed|3|For every commit - https://github.com/ajaykrish244/ScheduleBot/actions|
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|3|https://github.com/ajaykrish244/ScheduleBot/blob/main/checkers/PycharmStyleSyntax.xml|
-|Issues are discussed before they are closed|2|2 New features - !quickschedule, !typeedit<br />Improved the UI<br />Help users in DB setup<br />Moved config.py to .env<br />Resolved bugs
+|Issues are discussed before they are closed|2|3 New features - /quickschedule, /typeedit, /searchEvent<br />Improved the UI<br />Help users in DB setup<br />Moved config.py to .env<br />Resolved bugs
 |Chat channel: exists|3|![WhatsApp](Docs/WhatsApp_Chat.jpg)|
-|Test cases: a large proportion of the issues related to handling failing cases.|2||
+|Test cases: a large proportion of the issues related to handling failing cases.|2|The failing test required 1-2 lines of change which can be viewed in the commits|
 |Evidence that the whole team is using the same tools: everyone can get to all tools and files|3|https://github.com/ajaykrish244/ScheduleBot/blob/main/requirements.txt|
 |Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3|https://github.com/ajaykrish244/ScheduleBot/blob/main/requirements.txt, Everyone rented out a VCL so all  us had the same versions of tools|
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|3| Everyone were able to run on their machines with personal bots for testing|
@@ -154,7 +154,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Does each of your source code files include a copyright statement?|3|Yes|
 |Does your website and documentation clearly state the licence of your software?|3|Yes, https://github.com/ajaykrish244/ScheduleBot/blob/main/README.md|
 |Is your software released under an open source licence?|3|Yes, https://github.com/ajaykrish244/ScheduleBot/blob/main/README.md|
-|Is your software released under an OSI-approved open-source licence?|3||
+|Is your software released under an OSI-approved open-source licence?|3|Yes, MIT|
 |Does each of your source code files include a licence header?|3||
 |Do you have a recommended citation for your software?|2|DOI Badge on README.md|
 |Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?|2|Not a roadmap, just future work|
