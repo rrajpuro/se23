@@ -83,7 +83,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Test cases are routinely executed|3|For every commit - https://github.com/ajaykrish244/ScheduleBot/actions|
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|3|https://github.com/ajaykrish244/ScheduleBot/blob/main/checkers/PycharmStyleSyntax.xml|
 |Issues are discussed before they are closed|2|2 New features - !quickschedule, !typeedit<br />Improved the UI<br />Help users in DB setup<br />Moved config.py to .env<br />Resolved bugs
-|Chat channel: exists|3|Link to Images|
+|Chat channel: exists|3|![WhatsApp](Docs/WhatsApp_Chat.jpg)|
 |Test cases: a large proportion of the issues related to handling failing cases.|2||
 |Evidence that the whole team is using the same tools: everyone can get to all tools and files|3|https://github.com/ajaykrish244/ScheduleBot/blob/main/requirements.txt|
 |Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3|https://github.com/ajaykrish244/ScheduleBot/blob/main/requirements.txt, Everyone rented out a VCL so all  us had the same versions of tools|
